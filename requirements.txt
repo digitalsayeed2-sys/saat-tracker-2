@@ -1,0 +1,6 @@
+streamlit
+astral
+pandas
+geopy
+timezonefinder
+pytz
